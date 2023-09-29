@@ -12,7 +12,7 @@
 
 1. **Клонируйте репозиторий:**
 
-git clone https://github.com/enpure/ToDo-list
+'git clone https://github.com/enpure/ToDo-list'
 
 3. **Перейдите в каталог проекта:**
 
